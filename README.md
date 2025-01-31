@@ -18,3 +18,5 @@ Proyek ini adalah sistem **Monitoring Suhu dan Kelembapan berbasis IoT** yang me
 🔹 **Firebase** – Backend cloud untuk menyimpan data, menyediakan autentikasi pengguna, dan mengirim push notifications.  
 🔹 **Flutter** – Framework untuk membuat aplikasi mobile yang menampilkan data secara real-time dan interaktif.  
 🔹 **Google Sheets API** – Menyimpan data suhu dan kelembapan secara otomatis dalam format spreadsheet untuk keperluan analisis lebih lanjut.
+
+[screenshots](screenshots/dashboard.jpg)
