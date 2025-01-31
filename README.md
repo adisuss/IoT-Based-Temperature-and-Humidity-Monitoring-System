@@ -20,5 +20,26 @@ Proyek ini adalah sistem **Monitoring Suhu dan Kelembapan berbasis IoT** yang me
 🔹 **Google Sheets API** – Menyimpan data suhu dan kelembapan secara otomatis dalam format spreadsheet untuk keperluan analisis lebih lanjut.
 
 ### **Screenshots**
+<p align="center">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/Login with Google Accoun.jpg" width="300">
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/dashboard.jpg" width="300">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/linechart.jpg" width="300">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/schedulescreen.jpg" width="300">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/provisioning WiFi.jpg" width="300">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/spreadsheet.png" width="300">
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/notification.jpg" width="300">
+</p>
+
 
