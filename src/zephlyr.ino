@@ -1,14 +1,4 @@
-#include <Arduino.h>
-#include <WiFi.h>
-#include <WebServer.h>
-#include <ArduinoJson.h>
-#include <EEPROM.h>
-#include <FirebaseClient.h>
-#include <WiFiClientSecure.h>
-#include <NTPClient.h>
-#include <WiFiUdp.h>
-#include <DHT.h>
-#include <HTTPClient.h>
+
 // #include <time.h>
 
 #define RESET_PIN 4
