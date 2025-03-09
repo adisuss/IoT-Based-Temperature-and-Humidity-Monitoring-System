@@ -121,7 +121,7 @@ void sendDataToGoogleSheet(JsonArray &readings) {
     serializeJson(doc, jsonString);
 
     // URL endpoint Google Apps Script (URL dari deploy Google Apps Script)
-    const char* url = "https://script.google.com/macros/s/AKfycbyCGdvS8WT8QA5L5S1eoMiGlt8hkfC2Y78uJrxNEuGN38fqTF67H8sDDXyJP00U1IwzLA/exec";
+    const char* url = "your_appscript";
 
     // Mengirim HTTP POST request
     if (WiFi.status() == WL_CONNECTED) {
