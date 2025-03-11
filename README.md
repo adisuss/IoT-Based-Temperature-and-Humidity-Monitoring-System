@@ -44,5 +44,7 @@ Proyek ini adalah sistem **Monitoring Suhu dan Kelembapan berbasis IoT** yang me
 <p align="center">
 <img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/sheetsView.png" width="300">
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/Notification.jpg" width="300">
+</p>
 
