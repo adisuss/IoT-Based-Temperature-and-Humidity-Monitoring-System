@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1zZZg53S1PzUzjeQHnPRML7VqI3bBghpj?usp=sha
 <img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/CreateFileSheets.png" width="300">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/sheetsView.png" width="300">
+<img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/sheetsView.jpg" width="300">
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/Notification.jpg" width="300">
