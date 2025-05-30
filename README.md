@@ -20,7 +20,7 @@ Proyek ini adalah sistem **Monitoring Suhu dan Kelembapan berbasis IoT** yang me
 🔹 **Google Sheets API** – Menyimpan data suhu dan kelembapan secara otomatis dalam format spreadsheet untuk keperluan analisis lebih lanjut.
 
 **Link Download APK:**  
-https://drive.google.com/file/d/16AybhAnxA8ypSe4JyekmkfUbPDartVvw/view?usp=sharing
+https://drive.google.com/drive/folders/1zZZg53S1PzUzjeQHnPRML7VqI3bBghpj?usp=sharing
 
 ### **Screenshots**
 <p align="center">
