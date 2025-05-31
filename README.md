@@ -22,6 +22,10 @@ Proyek ini adalah sistem **Monitoring Suhu dan Kelembapan berbasis IoT** yang me
 **Link Download APK:**  
 https://drive.google.com/drive/folders/1zZZg53S1PzUzjeQHnPRML7VqI3bBghpj?usp=sharing
 
+
+📊 [Lihat Contoh Data Suhu Selama 25 Hari](https://github.com/namarepo/datapath.xlsx)
+
+
 ### **Screenshots**
 <p align="center">
 <img src="https://raw.githubusercontent.com/adisuss/IoT-Based-Temperature-and-Humidity-Monitoring-System/main/screenshots/LoginPage.jpg" width="300">
