@@ -19,11 +19,11 @@ Proyek ini adalah sistem **Monitoring Suhu dan Kelembapan berbasis IoT** yang me
 🔹 **Flutter** – Framework untuk membuat aplikasi mobile yang menampilkan data secara real-time dan interaktif.  
 🔹 **Google Sheets API** – Menyimpan data suhu dan kelembapan secara otomatis dalam format spreadsheet untuk keperluan analisis lebih lanjut.
 
-**Link Download APK:**  
+**🔗 Link Download APK:**  
 https://drive.google.com/drive/folders/1zZZg53S1PzUzjeQHnPRML7VqI3bBghpj?usp=sharing
 
 
-📊 [Lihat Contoh Data Suhu Selama 25 Hari](https://github.com/namarepo/datapath.xlsx)
+**🔗 📊 [Lihat Contoh Output Data Suhu Selama 25 Hari](https://github.com/Zephlyr/Output/Temp1-05-2025.xlsx)**
 
 
 ### **Screenshots**
